@@ -47,6 +47,7 @@ Different blueprints use different stacks (e.g. **Node.js/Express** vs **Java/Sp
 
 ### 2. Choose a project blueprint
 
+<!-- BLUEPRINT_TABLE -->
 
 | Document | Project | Backend | Domain |
 | -------- | ------- | ------- | ------ |
@@ -54,6 +55,8 @@ Different blueprints use different stacks (e.g. **Node.js/Express** vs **Java/Sp
 | [Student-SDLC-FullStack-Exercise.md](./Student-SDLC-FullStack-Exercise.md) | **TaskFlow** | Node.js (Express) | Task & project management |
 
 Open the document you want and read it **end to end** before writing code. Treat it as your project specification and plan.
+
+<!-- /BLUEPRINT_TABLE -->
 
 ### 3. Create your own project from the blueprint
 
