@@ -1,3 +1,9 @@
+---
+project: TaskFlow
+backend: Node.js (Express)
+domain: Task & project management
+---
+
 # Full-Stack SDLC Exercise: Project Blueprint for Students
 
 **Document Version:** 1.0  

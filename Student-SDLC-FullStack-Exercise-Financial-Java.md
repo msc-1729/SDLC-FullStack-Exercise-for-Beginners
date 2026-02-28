@@ -1,3 +1,9 @@
+---
+project: FinanceTrack
+backend: Java (Spring Boot)
+domain: Personal finance & budgeting
+---
+
 # Full-Stack SDLC Exercise: Financial Domain Project Blueprint for Students
 
 **Document Version:** 1.0  
